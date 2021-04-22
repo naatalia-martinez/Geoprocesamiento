@@ -6,6 +6,6 @@ El termino reproductibilidad (o *reproductibility*, en inglés) se refiere  a la
 
 ## Importancia de la reproductibilidad
 ¿Por qué es  importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la decada de  1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:
- * hoyAl dia de " 
+* " Al día de hoy, pocos resultados publicados son reproducibles en un sentido práctico . Verificarlos requiere de tanto esfuerzo como el que tomó crearlos.  
   
 
