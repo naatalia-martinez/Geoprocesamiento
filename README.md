@@ -16,3 +16,5 @@ Con el fin de responder esta problemática, diferentes organizaciones, como el C
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016
 
 ### **Bibliografía**
+
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görög, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos,  F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). *Open Science Training Handbook.* Zenodo. [](https://zenodo.org/record/1212496)
