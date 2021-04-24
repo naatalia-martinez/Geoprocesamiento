@@ -15,4 +15,4 @@ Con el fin de responder esta problemática, diferentes organizaciones, como el C
 
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016
 
-###**Bibliografía**
+### **Bibliografía**
