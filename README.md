@@ -11,5 +11,5 @@ El termino reproductibilidad (o *reproductibility*, en inglés) se refiere  a la
 
 Con el fin de responder esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [FDA](https://www.fda.gov/), empezaron a publicar lineamientos para acatar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea , se le dió más  importancia a la calidad de los datos utilizados en las investigaciones . Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró  en 2016 que un 20% de los articulos  con archivos de datos suplementarios publicados en revistas científicas contenían  errores en los nombres de los genes , debido  a los parámetros de configuración de Microsoft  Excel (Ziemann et al., 2016). 
 
-![](ZiemannEtAlFig1.png)
+![](C:\Users\Toshiba Core I3\Downloads)
 
